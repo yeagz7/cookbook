@@ -19,7 +19,12 @@
         },
         "measurement": {
             "type": "string",
-            "minLength": 1
+            "enum": [
+                "_",
+                "C",
+                "tbsp",
+                "tsp"
+            ]
         }
     }
 }

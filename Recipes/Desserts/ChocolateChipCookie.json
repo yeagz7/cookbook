@@ -1,0 +1,100 @@
+{
+    "$schema": "..\\..\\Schemas\\RecipeSchema.json",
+    "name": "Chocolate Chip & Butterscotch Cookies",
+    "yield": "3 dozen cookies",
+    "ingredients": [
+        {
+            "name": "all purpose flour",
+            "amount": 1,
+            "measurement": "C"
+        },
+        {
+            "name": "cake flour",
+            "amount": 1,
+            "measurement": "C"
+        },
+        {
+            "name": "shredded coconut",
+            "amount": 0.5,
+            "measurement": "C"
+        },
+        {
+            "name": "baking soda",
+            "amount": 0.5,
+            "measurement": "tsp"
+        },
+        {
+            "name": "salt",
+            "amount": 1,
+            "measurement": "tsp"
+        },
+        {
+            "name": "melted unsalted butter",
+            "amount": 0.75,
+            "measurement": "C"
+        },
+        {
+            "name": "brown sugar",
+            "amount": 1,
+            "measurement": "C"
+        },
+        {
+            "name": "white sugar",
+            "amount": 0.5,
+            "measurement": "C"
+        },
+        {
+            "name": "egg",
+            "amount": 1,
+            "measurement": "_"
+        },
+        {
+            "name": "yolk",
+            "amount": 1,
+            "measurement": "_"
+        },
+        {
+            "name": "vanilla extract",
+            "amount": 0.5,
+            "measurement": "tbsp"
+        },
+        {
+            "name": "coconut extract",
+            "amount": 1,
+            "measurement": "tsp"
+        },
+        {
+            "name": "semi-sweet chocolate chips",
+            "amount": 1,
+            "measurement": "C"
+        },
+        {
+            "name": "butterscotch chips",
+            "amount": 0.66,
+            "measurement": "C"
+        }
+    ],
+    "sections": [
+        {
+            "name": "Make and Bake",
+            "steps": [
+                "Preheat oven to 325.",
+                "Put silicone mat on cookie sheet.",
+                "Mix sugar and butter.",
+                "Add sifted flours, baking soda and salt, mix.",
+                "Mix in chips and coconut.",
+                "Slightly smaller than golf ball size.",
+                "Bake for 16 minutes on middle rack.",
+                "Put dough in fridge between rounds.",
+                "Let cool on a baking rack.",
+                "Store in zip lock bag and freeze."
+            ]
+        }
+    ],
+    "reviews": [
+        {
+            "rating": 3,
+            "comment": "jaljsdlaskdj"
+        }
+    ]
+}

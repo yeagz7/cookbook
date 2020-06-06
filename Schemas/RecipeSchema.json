@@ -26,6 +26,12 @@
       "items": {
         "$ref": "SectionSchema.json"
       }
+    },
+    "reviews": {
+      "type": "array",
+      "items": {
+        "$ref": "ReviewSchema.json"
+      }
     }
   }
 }

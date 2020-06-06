@@ -5,6 +5,7 @@
   "type": "object",
   "required": [
     "name",
+    "yield",
     "ingredients",
     "sections"
   ],
@@ -12,6 +13,10 @@
     "name": {
       "type": "string",
       "minLength": 5
+    },
+    "yield": {
+      "type": "string",
+      "minLength": 1
     },
     "ingredients": {
       "type": "array",

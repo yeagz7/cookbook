@@ -1,0 +1,31 @@
+{
+  "$id": "recipe",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Recipe",
+  "type": "object",
+  "required": [
+    "name",
+    "ingredients",
+    "sections"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 5
+    },
+    "ingredients": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "IngredientSchema.json"
+      }
+    },
+    "sections": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "SectionSchema.json"
+      }
+    }
+  }
+}

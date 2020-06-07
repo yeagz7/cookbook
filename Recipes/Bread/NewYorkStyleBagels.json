@@ -1,0 +1,94 @@
+{
+    "$schema": "..\\..\\Schemas\\RecipeSchema.json",
+    "name": "New York Style Bagels",
+    "yield": "8 bagels",
+    "ingredients": [
+        {
+            "name": "active dry yeast",
+            "amount": 6,
+            "measurement": "g"
+        },
+        {
+            "name": "granulated sugar",
+            "amount": 4.5,
+            "measurement": "tsp"
+        },
+        {
+            "name": "water",
+            "amount": 350,
+            "measurement": "ml"
+        },
+        {
+            "name": "bread flour",
+            "amount": 440,
+            "measurement": "g"
+        },
+        {
+            "name": "salt",
+            "amount": 1.5,
+            "measurement": "tsp"
+        },
+        {
+            "name": "dried minced garlic",
+            "amount": 3,
+            "measurement": "g"
+        },
+        {
+            "name": "poppy seeds",
+            "amount": 3,
+            "measurement": "g"
+        },
+        {
+            "name": "sesame seeds",
+            "amount": 3,
+            "measurement": "g"
+        },
+        {
+            "name": "kosher salt",
+            "amount": 3,
+            "measurement": "g"
+        },
+        {
+            "name": "onion powder",
+            "amount": 3,
+            "measurement": "g"
+        }
+    ],
+    "sections": [
+        {
+            "name": "Make everything seasoning",
+            "steps": [
+                "Mix dried minched garlic, poppy seeds, sesame seeds. kosher salt, and onion power in small bowl."
+            ]
+        },
+        {
+            "name": "Make dough",
+            "steps": [
+                "Heat 120ml of warm water.",
+                "Pour in sugar then yeast. Do not stir and let sit for 5 minutes. Stir the mixture until it all dissolves.",
+                "Mix the flour and salt in a large bowl. Make a well in the middle and pour in the yeast and sugar mixture.",
+                "Pour 80ml into the well. Mix and stir in the rest of the water as needed until you have a moist and firm dough.",
+                "On a floured countertop, knead the dough for about 10 minutes until it is smooth and elastic. Try working in as much flour as possible to form a firm and stiff dough.",
+                "Lightly brush a large bowl with oil and turn the dough to coat. Cover the bowl with a damp dish towel. Let rise in a warm place for 1 hour, until the dough has doubled in size.",
+                "Punch the dough down, and let it rest for another 10 minutes."
+            ]
+        },
+        {
+            "name": "Boil & Bake the bagels",
+            "steps": [
+                "Oil a cooking sheet.",
+                "Roll the dough into a log about 18 inches long.",
+                "Carefully divide the dough into 8 pieces (be careful to give the ends enough dough).",
+                "Coat a finger in flour, and gently press your finger into the center of each dough ball to form a ring. Stretch the ring to about ⅓ the diameter of the bagel and place on a lightly oiled cookie sheet. Cover with a damp towel.",
+                "Preheat your oven to 425 and let your dough rounds rest for 10 minutes.",
+                "Bring a large pot of water to a boil. Reduce the heat.",
+                "Use a slotted spoon or skimmer to lower the bagels into the water. Boil as many as you are comfortable with boiling. Once the bagels are in, it shouldn’t take too long for them to float to the top (a couple seconds). Let them sit there for 1.5 minutes, and then flip them over to boil for another 1.5 minutes.",
+                "Place the bagels onto a wire rack over a pan for 1 minute.",
+                "Cover in egg wash and top with seasoning.",
+                "Transfer bagels to a baking sheet with a silicone pat.",
+                "Bake for 20 minutes rotating halfway through.",
+                "Cool on a wire rack once done."
+            ]
+        }
+    ]
+}
